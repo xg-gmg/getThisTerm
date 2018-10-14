@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/10/14 14:42:03.000.905,=D:\Delphi\Unit1.pas</Transaction>
+    <Transaction>2018/10/14 14:43:43.000.351,D:\Delphi\getTerm.dproj=D:\Delphi\Project1.dproj</Transaction>
+    <Transaction>2018/10/14 14:44:16.000.023,D:\Code\Delphi\getTerm\Unit1.fmx=D:\Delphi\Unit1.fmx</Transaction>
+    <Transaction>2018/10/14 14:44:16.000.023,D:\Code\Delphi\getTerm\Unit1.pas=D:\Delphi\Unit1.pas</Transaction>
+    <Transaction>2018/10/14 14:44:22.000.872,D:\Code\Delphi\getTerm\getTerm.dproj=D:\Delphi\getTerm.dproj</Transaction>
+    <Transaction>2018/10/14 15:14:30.000.392,=D:\Code\Delphi\getTerm\Unit2.pas</Transaction>
+    <Transaction>2018/10/14 15:14:43.000.826,D:\Code\Delphi\getTerm\Unit2.pas=D:\Code\Delphi\getTerm\getterm.pas</Transaction>
+    <Transaction>2018/10/14 16:12:57.451,D:\Code\Delphi\getTerm\getterm.pas=</Transaction>
+    <Transaction>2018/10/14 16:13:24.781,=D:\Code\Delphi\getTerm\Unit2.pas</Transaction>
+    <Transaction>2018/10/14 16:20:45.719,D:\Code\Delphi\getTerm\whichTerm.pas=D:\Code\Delphi\getTerm\Unit2.pas</Transaction>
+    <Transaction>2018/10/14 16:21:00.402,D:\Code\Delphi\getTerm\term.pas=D:\Code\Delphi\getTerm\whichTerm.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
